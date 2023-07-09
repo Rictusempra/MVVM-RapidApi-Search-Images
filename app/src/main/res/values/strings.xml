@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Image Search</string>
+
+    <string name="exit_message">Нажмите ещё раз для выхода</string>
+
+    <string name="image_search_hint">Введите запрос</string>
+
+    <string name="empty_list_text">список пуст</string>
+
+</resources>
