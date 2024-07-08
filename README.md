@@ -9,4 +9,4 @@ Coroutines
 RecyclerView with DiffUtil  
 Glide
 
-![Скриншот]([https://github.com/jon/coolproject/raw/master/image/image.png](https://i.postimg.cc/GcQB9pmS/Screenshot-3.png))
+![Screenshot]([https://github.com/jon/coolproject/raw/master/image/image.png](https://i.postimg.cc/GcQB9pmS/Screenshot-3.png))
